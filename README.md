@@ -17,14 +17,14 @@ The analysis aims to:
 ## Key Performance Indicators (KPIs)
 
 | KPI |	Definition |
-| :--- | :---: | ---: |
-Total Patient Visits	| Total number of Emergency Department records analyzed
-Average Waiting Time	| Average time between reception and department entry
-Median Waiting Time	| Median time between reception and department entry
-Maximum Waiting Time |	Longest recorded waiting time
-Patient Volume |	Number of patient visits by date/time period
-Age Distribution |	Distribution of patients across defined age groups
-Gender Distribution	| Patient volume by gender
+| --- | --- | 
+Total Patient Visits	| Total number of Emergency Department records analyzed |
+Average Waiting Time	| Average time between reception and department entry |
+Median Waiting Time	| Median time between reception and department entry |
+Maximum Waiting Time |	Longest recorded waiting time |
+Patient Volume |	Number of patient visits by date/time period |
+Age Distribution |	Distribution of patients across defined age groups |
+Gender Distribution	| Patient volume by gender |
 
 ## Data
 
