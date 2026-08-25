@@ -74,6 +74,6 @@ The analysis can be used to identify:
 * Python – Data preparation and analysis
 * Pandas – Data manipulation and validation
 
-##Project Outcome
+## Project Outcome
 
 The project demonstrates how healthcare operational data can be transformed into meaningful metrics and interactive visualizations to improve understanding of patient flow and support data-driven operational reporting.
