@@ -1,10 +1,10 @@
-#Healthcare Operations Analysis
+# Healthcare Operations Analysis
 
-##Project Overview
+## Project Overview
 
 This project analyzes Emergency Department patient data to understand patient volume, waiting-time patterns, and demographic characteristics. The analysis transforms raw healthcare data into interactive Tableau visualizations to support operational monitoring and data-driven decision-making.
 
-##Business Goals
+## Business Goals
 
 The analysis aims to:
 
@@ -14,7 +14,7 @@ The analysis aims to:
 * Understand patient demographics by age and gender.
 * Identify patterns that may help healthcare teams better understand patient flow and operational demand.
 
-##Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 KPI	Definition
 Total Patient Visits	Total number of Emergency Department records analyzed
@@ -25,7 +25,7 @@ Patient Volume	Number of patient visits by date/time period
 Age Distribution	Distribution of patients across defined age groups
 Gender Distribution	Patient volume by gender
 
-##Data
+## Data
 
 The dataset contains Emergency Department patient records with the following fields:
 
@@ -46,7 +46,7 @@ The analysis focuses on:
 * Patient distribution across age groups.
 * Relationship between patient volume and waiting time.
 
-##Dashboard
+## Dashboard
 
 An interactive Tableau dashboard was developed to provide an overview of Emergency Department activity and patient-flow patterns.
 
@@ -59,7 +59,7 @@ The dashboard includes:
 * Gender distribution.
 * Interactive filters for exploring the data.
 
-##Key Insights
+## Key Insights
 
 The analysis can be used to identify:
 
@@ -68,7 +68,7 @@ The analysis can be used to identify:
 * Demographic characteristics of the patient population.
 * Potential periods where higher patient volume coincides with increased waiting times.
 
-##Tools & Technologies
+## Tools & Technologies
 
 * Tableau – Data visualization and dashboard development
 * Python – Data preparation and analysis
